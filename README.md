@@ -46,7 +46,7 @@ The system explains decisions:
 | Tracking | Custom Tracker + Trajectory Engine |
 
 ---
-
+```text
 ## 📂 Project Structure
 Human-Activity-CCTV/
 │
@@ -63,6 +63,7 @@ Human-Activity-CCTV/
 ├── streamlit_app.py
 ├── requirements.txt
 ├── README.md
+```
 
 ---
 
