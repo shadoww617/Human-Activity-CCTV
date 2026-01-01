@@ -1,0 +1,50 @@
+# ---- PYTHON ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ---- ENVIRONMENT ----
+venv/
+.env
+env/
+.venv/
+
+# ---- STREAMLIT ----
+.streamlit/
+
+# ---- IDE / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- YOLO / AI MODELS ----
+*.pt
+*.onnx
+*.engine
+
+# ---- DATA FILES ----
+datasets/
+data/
+videos/
+input.mp4
+*.avi
+*.mp4
+*.mov
+*.mkv
+frames/
+
+# ---- OUTPUTS ----
+outputs/
+results/
+runs/
+exports/
+reports/
+
+# ---- CACHE ----
+cache/
+*.cache
+*.tmp
+*.temp
